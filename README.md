@@ -6,8 +6,8 @@ I am making this list as an attempt to fill the void of any such open source lis
 
 The following are some global research internship positions:
 
-1.  [MITACS Gloablink : Finished](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship), for research positions in Canada.
-2. [DAAD Wise Scholarship : CG CutOff 8.5 :(](https://www.daad.de/deutschland/stipendium/datenbank/en/15342-you-are-interested-in-a-daad-scholarship/), for research positions in Germany
+1.  ~~[MITACS Gloablink : Finished]~~(https://www.mitacs.ca/en/programs/globalink/globalink-research-internship), for research positions in Canada.
+2. ~~[DAAD Wise Scholarship : CG CutOff 8.5 :(]~~(https://www.daad.de/deutschland/stipendium/datenbank/en/15342-you-are-interested-in-a-daad-scholarship/), for research positions in Germany
 3. [Research fellowship at ETH Zurich : Start from 1 Nov](https://www.inf.ethz.ch/studies/summer-research-fellowship.html)
 4. [Max Planck Institute for Software Systems](https://apply.mpi-sws.org/register/internship/)
 5. [CRUISE Program](https://www.cse.gatech.edu/research/cruise) by Georgia Tech University
@@ -25,6 +25,11 @@ The following are some global research internship positions:
 17. [CERN OpenLab for Computer Science Undergraduates](https://openlab.cern/education)
 18. [ISternship Summer Student Program](https://phd.pages.ist.ac.at/isternship/), IST Austria
 19. [CalTech SURF Program : Starts From 1 November](https://www.sfp.caltech.edu/programs/surf/application_information)
+From 1 November to 15th Feb.
+***Imp: Ask Biju Sir to contact a professor after searching for a good one.
+
+
+
 20. [TIGP-IIP](https://tigpsip.apps.sinica.edu.tw/index.php), Academia Sincia, Taiwan
 21. [Agmen Scholarship, University of Tokyo](https://www.u-tokyo.ac.jp/en/prospective-students/amgen_program.html)
 22. [IVISP, HKUST](https://pg.ust.hk/ivisp) (only for senior year undergraduates + postgraduates)
