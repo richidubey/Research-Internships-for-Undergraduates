@@ -5,7 +5,7 @@
 I am making this list as an attempt to fill the void of any such open source list. Your contribution is vital to keep the list up-to-date for future students to use. Hence it's a humble request to each user to contribute any new opportunity you discover and update the old ones. Without updation, the web-links will break, and the list will become redundant! I'll make sure that any such modification in the `README.md` raised as an issue or submitted as a pull request will be timely reviewed and added.
 
 The following are some global research internship positions:
-
+Check out https://www.iitk.ac.in/oir/iitk-students
 1.  ~~[MITACS Gloablink : Finished]~~(https://www.mitacs.ca/en/programs/globalink/globalink-research-internship), for research positions in Canada.
 2. ~~[DAAD Wise Scholarship : CG CutOff 8.5 :(]~~(https://www.daad.de/deutschland/stipendium/datenbank/en/15342-you-are-interested-in-a-daad-scholarship/), for research positions in Germany
 3. [Research fellowship at ETH Zurich : Start from 1 Nov - 15th Dec : Goes till 31st Aug !!](https://www.inf.ethz.ch/studies/summer-research-fellowship.html) - Think about this.
