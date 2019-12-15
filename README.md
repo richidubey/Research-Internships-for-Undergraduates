@@ -32,7 +32,7 @@ From 1 November to 15th Feb.
 
 
 20. [TIGP-IIP](https://tigpsip.apps.sinica.edu.tw/index.php), Academia Sincia, Taiwan
-21. [Agmen Scholarship, University of Tokyo](https://www.u-tokyo.ac.jp/en/prospective-students/amgen_program.html)
+21. ~~[Agmen Scholarship, University of Tokyo : For biological People]~~(https://www.u-tokyo.ac.jp/en/prospective-students/amgen_program.html)
 22. [IVISP, HKUST](https://pg.ust.hk/ivisp) (only for senior year undergraduates + postgraduates)
 23. [Space Astronomy Summer Program, Space Telescope Science Institute (STScI)](http://www.stsci.edu/opportunities/space-astronomy-summer-program)
 24. [UNSW Civil and Environmental Engineering Research Internship](https://www.engineering.unsw.edu.au/civil-engineering/study-with-us/international-exchange/research-internship-to-unsw-for-international-students)
