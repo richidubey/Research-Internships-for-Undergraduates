@@ -8,7 +8,7 @@ The following are some global research internship positions:
 Check out https://www.iitk.ac.in/oir/iitk-students
 1.  ~~[MITACS Gloablink : Finished]~~(https://www.mitacs.ca/en/programs/globalink/globalink-research-internship), for research positions in Canada.
 2. ~~[DAAD Wise Scholarship : CG CutOff 8.5 :(]~~(https://www.daad.de/deutschland/stipendium/datenbank/en/15342-you-are-interested-in-a-daad-scholarship/), for research positions in Germany
-3.~~[Research fellowship at ETH Zurich : Start from 1 Nov - 15th Dec : Goes till 31st Aug !!(missed)](https://www.inf.ethz.ch/studies/summer-research-fellowship.html) - Think about this. ~~
+3.~~[Research fellowship at ETH Zurich : Start from 1 Nov - 15th Dec : Goes till 31st Aug !!(missed)]~~(https://www.inf.ethz.ch/studies/summer-research-fellowship.html) - Think about this.
 4. ~~[Max Planck Institute for Software Systems: not interested](https://apply.mpi-sws.org/register/internship/)
 5. [CRUISE Program: Check once in December](https://www.cse.gatech.edu/research/cruise) by Georgia Tech University
 Check for Charpak Scholarship 
@@ -21,7 +21,7 @@ Check for Charpak Scholarship
 12. [UROP International : Deadline: 15th Jan. So check in winter holidays](http://www.rwth-aachen.de/cms/root/Forschung/Angebote-fuer-Forschende/Angebote-fuer-Studierende/UROP/UROP-INternational/~wnr/Informationen-fuer-Studierende/?lidx=1), RWTH Aachen
 13. [University of Tokyo](http://www.amgenscholars.com/japan-program), Agmen Scholarship Japan (only Bio Tech and Bio-Chem Programs)
 14. [MTBI Summer Program](https://mtbi.asu.edu/summerprogram), Arizona State University
-15. [Summer Undergraduate Research fellowship program](https://www.rockefeller.edu/education-and-training/surf/), Rockfeller Institute
+15. ~~[Summer Undergraduate Research fellowship program : For biology and neuroscience]~~(https://www.rockefeller.edu/education-and-training/surf/), Rockfeller Institute
 16. [CERN Summer Student Program](https://careers.cern/join-us/summer-student-programme-member-states)
 17. [CERN OpenLab for Computer Science Undergraduates](https://openlab.cern/education)
 18. [ISternship Summer Student Program](https://phd.pages.ist.ac.at/isternship/), IST Austria
