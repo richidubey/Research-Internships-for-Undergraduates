@@ -8,7 +8,7 @@ The following are some global research internship positions:
 Check out https://www.iitk.ac.in/oir/iitk-students
 1.  ~~[MITACS Gloablink : Finished]~~(https://www.mitacs.ca/en/programs/globalink/globalink-research-internship), for research positions in Canada.
 2. ~~[DAAD Wise Scholarship : CG CutOff 8.5 :(]~~(https://www.daad.de/deutschland/stipendium/datenbank/en/15342-you-are-interested-in-a-daad-scholarship/), for research positions in Germany
-3. [Research fellowship at ETH Zurich : Start from 1 Nov - 15th Dec : Goes till 31st Aug !!](https://www.inf.ethz.ch/studies/summer-research-fellowship.html) - Think about this.
+3.~~[Research fellowship at ETH Zurich : Start from 1 Nov - 15th Dec : Goes till 31st Aug !!(missed)](https://www.inf.ethz.ch/studies/summer-research-fellowship.html) - Think about this. ~~
 4. ~~[Max Planck Institute for Software Systems: not interested](https://apply.mpi-sws.org/register/internship/)
 5. [CRUISE Program: Check once in December](https://www.cse.gatech.edu/research/cruise) by Georgia Tech University
 Check for Charpak Scholarship 
