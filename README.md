@@ -5,13 +5,26 @@
 I am making this list as an attempt to fill the void of any such open source list. Your contribution is vital to keep the list up-to-date for future students to use. Hence it's a humble request to each user to contribute any new opportunity you discover and update the old ones. Without updation, the web-links will break, and the list will become redundant! I'll make sure that any such modification in the `README.md` raised as an issue or submitted as a pull request will be timely reviewed and added.
 
 The following are some global research internship positions:
+https://oie.gatech.edu/gip/research-based-internship-and-fellowship-options
+
+
+https://oie.gatech.edu/content/gt-study-abroad-intern-abroad-combination-programs
+
+
+https://oie.gatech.edu/gip/third-party-internship-organizations
+
+https://oie.gatech.edu/gip/careerbuzz-other-employment-search-engines
+
 Check out https://www.iitk.ac.in/oir/iitk-students
 1.  ~~[MITACS Gloablink : Finished]~~(https://www.mitacs.ca/en/programs/globalink/globalink-research-internship), for research positions in Canada.
 2. ~~[DAAD Wise Scholarship : CG CutOff 8.5 :(]~~(https://www.daad.de/deutschland/stipendium/datenbank/en/15342-you-are-interested-in-a-daad-scholarship/), for research positions in Germany
 3.~~[Research fellowship at ETH Zurich : Start from 1 Nov - 15th Dec : Goes till 31st Aug !!(missed)]~~(https://www.inf.ethz.ch/studies/summer-research-fellowship.html) - Think about this.
 4. ~~[Max Planck Institute for Software Systems: not interested](https://apply.mpi-sws.org/register/internship/)
 5. [CRUISE Program: Check once in December](https://www.cse.gatech.edu/research/cruise) by Georgia Tech University
-Check for Charpak Scholarship 
+
+5.5 [Check for Charpak Scholarship: Starts From January, For French Institutions](https://www.inde.campusfrance.org/charpak-lab-scholarship) 
+5.10 [ITRI : CHeck in January[(https://www.itri.org.tw/eng/Content/Messagess/List.aspx?SiteID=1&MmmID=617731531432246346)
+6.00 [SURE : CHECK ON 13TH January. Only opens for 10 days] (https://www.mcgill.ca/engineering/students/undergraduate/research)
 6. [IPAM UCLA, RIPS Program: Deadline in Feb. Chill](http://www.ipam.ucla.edu/programs/student-research-programs/)
 7. [Summer at EPFL](https://summer.epfl.ch/)
 8. [Robotics Institute for Summer Scholars : Rootics. Not Sure. Check in Winters if have time.](https://riss.ri.cmu.edu/), CMU
