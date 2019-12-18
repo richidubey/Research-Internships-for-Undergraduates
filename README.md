@@ -13,7 +13,11 @@ https://oie.gatech.edu/content/gt-study-abroad-intern-abroad-combination-program
 
 https://oie.gatech.edu/gip/third-party-internship-organizations
 
-https://oie.gatech.edu/gip/careerbuzz-other-employment-search-engines
+https://oie.gatech.edu/gip/careerbuzz-other-employment-search-engines4
+
+Finish on 26th Dec :
+https://venus2.wis.ntu.edu.sg/NG_APP/Pages/UploadAttachmentIC.aspx
+
 
 Check out https://www.iitk.ac.in/oir/iitk-students
 1.  ~~[MITACS Gloablink : Finished]~~(https://www.mitacs.ca/en/programs/globalink/globalink-research-internship), for research positions in Canada.
