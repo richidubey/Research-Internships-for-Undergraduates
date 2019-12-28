@@ -15,9 +15,18 @@ https://oie.gatech.edu/gip/third-party-internship-organizations
 
 https://oie.gatech.edu/gip/careerbuzz-other-employment-search-engines4
 
+https://undergraduateresearch.princeton.edu/programs/summer-programs
+
+https://www.google.co.in/search?client=opera&hs=EYq&ei=eRkHXp7NFIOG4-EPs9KO6AI&q=isternship+summer+program+2020+funding&oq=isternship+summer+program+2020+funding&gs_l=psy-ab.3..33i160.2553.3398..3539...0.2..0.223.1281.0j6j1......0....1..gws-wiz.......0i71j0i22i30j33i22i29i30j33i21.DFXC7DC3lU0&ved=0ahUKEwje7c6j_dfmAhUDwzgGHTOpAy0Q4dUDCAo&uact=5
+
 
 Finish on 26th Dec :(NTU need two prof. reco)
 https://venus2.wis.ntu.edu.sg/NG_APP/Pages/UploadAttachmentIC.aspx
+
+Currently Working on :
+
+Santa FE
+And isternship.
 
 
 Check out https://www.iitk.ac.in/oir/iitk-students
@@ -30,17 +39,13 @@ Check out https://www.iitk.ac.in/oir/iitk-students
 
 6. [IPAM UCLA, RIPS Program: Deadline in Feb. Chill](http://www.ipam.ucla.edu/programs/student-research-programs/)
 
-10. [NTHU Summer Internship Program](http://eng-en.web.nthu.edu.tw/files/14-1130-129169,r1447-1.php)
+10. [NTHU Summer Internship Program : Not Opening. Unable to find any other link. Check once when back on campus](http://eng-en.web.nthu.edu.tw/files/14-1130-129169,r1447-1.php)
 
-11. [Santa Fe Institute Summer Research Experience : Deadline : 13th Jan. Check in Winter Break](https://www.santafe.edu/engage/learn/schools/research-experiences-undergraduates)
+11. [Santa Fe Institute Summer Research Experience : Deadline : 13th Jan. Check in Winter Break:Write about limited research opp at your place :)](https://www.santafe.edu/engage/learn/schools/research-experiences-undergraduates)
 
-12. [UROP International : Deadline: 15th Jan. So check in winter holidays](http://www.rwth-aachen.de/cms/root/Forschung/Angebote-fuer-Forschende/Angebote-fuer-Studierende/UROP/UROP-INternational/~wnr/Informationen-fuer-Studierende/?lidx=1), RWTH Aachen
+17. [CERN OpenLab for Computer Science Undergraduates : Deadline 31st jan. good stipend. apply before reaching college. might need pdf reco.](https://openlab.cern/education)
 
-16. [CERN Summer Student Program](https://careers.cern/join-us/summer-student-programme-member-states)
-
-17. [CERN OpenLab for Computer Science Undergraduates](https://openlab.cern/education)
-
-18. [ISternship Summer Student Program](https://phd.pages.ist.ac.at/isternship/), IST Austria
+18. [ISternship Summer Student Program : Really Sexy !! Deadline on 1st of Feb. Form to be filled completely by the time i reach college.](https://phd.pages.ist.ac.at/isternship/), IST Austria
 
 19. [CalTech SURF Program : Starts From 1 November](https://www.sfp.caltech.edu/programs/surf/application_information)
 From 1 November to 15th Feb.
@@ -48,15 +53,7 @@ From 1 November to 15th Feb.
 
 
 
-20. [TIGP-IIP](https://tigpsip.apps.sinica.edu.tw/index.php), Academia Sincia, Taiwan
-
-22. [IVISP, HKUST](https://pg.ust.hk/ivisp) (only for senior year undergraduates + postgraduates)
-
-26. [SURP, CUHK](http://www.summer.cuhk.edu.hk/surp/)
-
 The following are some research internships for Indian students:
-
-4. [NTU-India Connect : Deadline is 31st. You need two recos for it.](http://global.ntu.edu.sg/GMP/ic/Pages/default.aspx), sponsored by NTU
 
 5. [Charpak Global Scholarship : Opens from Jan Baby](http://www.inde.campusfrance.org/en/page/charpak-research-internship-program), funded by French Embassy in India
 
