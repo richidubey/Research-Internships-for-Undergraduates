@@ -55,7 +55,7 @@ From 1 November to 15th Feb.
 
 The following are some research internships for Indian students:
 
-5. [Charpak Global Scholarship : Opens from Jan Baby](http://www.inde.campusfrance.org/en/page/charpak-research-internship-program), funded by French Embassy in India
+5. [Charpak Global Scholarship : Keep Checking in Jan](https://www.inde.campusfrance.org/charpak-lab-scholarship), funded by French Embassy in India
 
 
 Check personally in your favourite colleges.
