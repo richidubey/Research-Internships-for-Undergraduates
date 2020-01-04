@@ -57,6 +57,5 @@ The following are some research internships for Indian students:
 
 5. [Charpak Global Scholarship : Opens from Jan Baby](http://www.inde.campusfrance.org/en/page/charpak-research-internship-program), funded by French Embassy in India
 
-17. [Shastri Student Internship Project : Check Once in January](https://www.shastriinstitute.org/Shastri_Student_Internship_Project), Eligible universities [here](https://www.shastriinstitute.org/member-council)
 
 Check personally in your favourite colleges.
