@@ -5,6 +5,9 @@
 I am making this list as an attempt to fill the void of any such open source list. Your contribution is vital to keep the list up-to-date for future students to use. Hence it's a humble request to each user to contribute any new opportunity you discover and update the old ones. Without updation, the web-links will break, and the list will become redundant! I'll make sure that any such modification in the `README.md` raised as an issue or submitted as a pull request will be timely reviewed and added.
 
 The following are some global research internship positions:
+
+Check  : https://www.pathwaystoscience.org/programs.aspx?u=Undergrads_Undergraduate+Students&sm=&sd=&sy=&d=ENG-CompElectrical_Computer+%26+Electrical+Engineering&dd=SummerResearch_Summer+Research+Opportunity&submit=y&dhub=SummerResearch_Summer+Research+Opportunity
+
 https://oie.gatech.edu/gip/research-based-internship-and-fellowship-options
 
 
