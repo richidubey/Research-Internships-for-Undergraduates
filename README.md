@@ -8,28 +8,12 @@ The following are some global research internship positions:
 
 Check  : https://www.pathwaystoscience.org/programs.aspx?u=Undergrads_Undergraduate+Students&sm=&sd=&sy=&d=ENG-CompElectrical_Computer+%26+Electrical+Engineering&dd=SummerResearch_Summer+Research+Opportunity&submit=y&dhub=SummerResearch_Summer+Research+Opportunity
 
-https://oie.gatech.edu/gip/research-based-internship-and-fellowship-options
-
-
-https://oie.gatech.edu/content/gt-study-abroad-intern-abroad-combination-programs
-
-
-https://oie.gatech.edu/gip/third-party-internship-organizations
-
-https://oie.gatech.edu/gip/careerbuzz-other-employment-search-engines4
-
 https://undergraduateresearch.princeton.edu/programs/summer-programs
-
-https://www.google.co.in/search?client=opera&hs=EYq&ei=eRkHXp7NFIOG4-EPs9KO6AI&q=isternship+summer+program+2020+funding&oq=isternship+summer+program+2020+funding&gs_l=psy-ab.3..33i160.2553.3398..3539...0.2..0.223.1281.0j6j1......0....1..gws-wiz.......0i71j0i22i30j33i22i29i30j33i21.DFXC7DC3lU0&ved=0ahUKEwje7c6j_dfmAhUDwzgGHTOpAy0Q4dUDCAo&uact=5
-
-
-Finish on 26th Dec :(NTU need two prof. reco)
-https://venus2.wis.ntu.edu.sg/NG_APP/Pages/UploadAttachmentIC.aspx
 
 Currently Working on :
 
-Santa FE
-And isternship.
+And isternship
+SURF
 
 
 Check out https://www.iitk.ac.in/oir/iitk-students
@@ -42,9 +26,6 @@ Check out https://www.iitk.ac.in/oir/iitk-students
 
 6. [IPAM UCLA, RIPS Program: Deadline in Feb. Chill](http://www.ipam.ucla.edu/programs/student-research-programs/)
 
-10. [NTHU Summer Internship Program : Not Opening. Unable to find any other link. Check once when back on campus](http://eng-en.web.nthu.edu.tw/files/14-1130-129169,r1447-1.php)
-
-11. [Santa Fe Institute Summer Research Experience : Deadline : 13th Jan. Check in Winter Break:Write about limited research opp at your place :)](https://www.santafe.edu/engage/learn/schools/research-experiences-undergraduates)
 
 17. [CERN OpenLab for Computer Science Undergraduates : Deadline 31st jan. good stipend. apply before reaching college. might need pdf reco.](https://openlab.cern/education)
 
