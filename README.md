@@ -24,6 +24,9 @@ Check out https://www.iitk.ac.in/oir/iitk-students
 
 6.00 [SURE : CHECK ON 13TH January. Only opens for 10 days] (https://www.mcgill.ca/engineering/students/undergraduate/research)
 
+Check Mid Feb :
+http://www.cs.ucl.ac.uk/careers/departmental_research_internships/
+
 6. [IPAM UCLA, RIPS Program: Deadline in Feb. Chill](http://www.ipam.ucla.edu/programs/student-research-programs/)
 
 
